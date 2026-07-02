@@ -1,7 +1,6 @@
 export const config = {
   audio: {
     mainTheme: "/assets/bg.mp3",
-    waves: "/assets/bg.mp3",
   },
   scenes: {
     intro: {
